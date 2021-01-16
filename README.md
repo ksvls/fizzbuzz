@@ -6,6 +6,7 @@
 - [C](https://github.com/ksvls/fizzbuzz/blob/main/src/Conditional/fizzbuzz.c)
 - [C++](https://github.com/ksvls/fizzbuzz/blob/main/src/Conditional/fizzbuzz.cpp)
 - [JavaScript](https://github.com/ksvls/fizzbuzz/blob/main/src/Conditional/fizzbuzz.js)
+- [PHP](https://github.com/ksvls/fizzbuzz/blob/main/src/Conditional/fizzbuzz.php)
 - [Python](https://github.com/ksvls/fizzbuzz/blob/main/src/Conditional/fizzbuzz.py)
 - [TypeScript](https://github.com/ksvls/fizzbuzz/blob/main/src/Conditional/fizzbuzz.ts)
 
